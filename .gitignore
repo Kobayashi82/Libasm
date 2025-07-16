@@ -1,0 +1,13 @@
+*
+!.vscode
+!.vscode/**
+!doc
+!doc/**
+doc/Libasm\ 5.1.pdf
+!inc
+!inc/**
+!src
+!src/**
+!Makefile
+!.gitignore
+!README.md
