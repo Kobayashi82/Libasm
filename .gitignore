@@ -1,6 +1,4 @@
 *
-!.vscode
-!.vscode/**
 !doc
 !doc/**
 doc/Libasm\ 5.1.pdf
