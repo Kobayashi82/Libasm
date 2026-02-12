@@ -1,4 +1,4 @@
-7<div align="center">
+<div align="center">
 
 ![System & Kernel](https://img.shields.io/badge/System-brown?style=for-the-badge)
 ![Assembly](https://img.shields.io/badge/Assembly-x86__64-blue?style=for-the-badge)
