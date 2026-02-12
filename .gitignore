@@ -1,11 +1,18 @@
 *
+
 !doc
 !doc/**
-doc/Libasm\ 5.1.pdf
+doc/libasm\ 5.4.pdf
+
+!images
+!images/**
+
 !inc
 !inc/**
+
 !src
 !src/**
+
 !Makefile
 !.gitignore
 !README.md
