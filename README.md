@@ -1,9 +1,7 @@
 <div align="center">
 
-![System & Kernel](https://img.shields.io/badge/System-brown?style=for-the-badge)
+![Library](https://img.shields.io/badge/System-brown?style=for-the-badge)
 ![Assembly](https://img.shields.io/badge/Assembly-x86__64-blue?style=for-the-badge)
-![Syscalls](https://img.shields.io/badge/Syscalls-read%2Fwrite-green?style=for-the-badge)
-![Library](https://img.shields.io/badge/Library-static-red?style=for-the-badge)
 
 *Small standard C helpers written in x86_64 assembly*
 
