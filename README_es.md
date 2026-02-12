@@ -1,6 +1,6 @@
 <div align="center">
 
-![Library](https://img.shields.io/badge/System-brown?style=for-the-badge)
+![Library](https://img.shields.io/badge/Library-brown?style=for-the-badge)
 ![Assembly](https://img.shields.io/badge/Assembly-x86__64-blue?style=for-the-badge)
 
 *Pequenas utilidades de C estandar escritas en ensamblador x86_64*
