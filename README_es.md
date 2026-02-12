@@ -1,4 +1,4 @@
-<div align="center">
+7<div align="center">
 
 ![System & Kernel](https://img.shields.io/badge/System-brown?style=for-the-badge)
 ![Assembly](https://img.shields.io/badge/Assembly-x86__64-blue?style=for-the-badge)
@@ -17,7 +17,7 @@
 
 [README in English](README.md)
 
-`Libasm` es un proyecto de la `escuela 42` que reimplementa un pequeno subconjunto de funciones de libc en ensamblador x86_64 para Linux.
+`Libasm` es un proyecto de `42 School` que reimplementa un pequeno subconjunto de funciones de libc en ensamblador x86_64 para Linux.
 
 ## ✨ Caracteristicas
 
