@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-  <img src="/images/Malloc.jpg">
+  <img src="/images/Libasm.jpg">
 </div>
 
 # Libasm
